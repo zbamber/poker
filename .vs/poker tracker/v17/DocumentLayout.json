@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\profp\\source\\repos\\poker tracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|poker tracker\\poker tracker.vbproj|c:\\users\\profp\\source\\repos\\poker tracker\\poker tracker\\new game.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|poker tracker\\poker tracker.vbproj|solutionrelative:poker tracker\\new game.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|poker tracker\\poker tracker.vbproj|c:\\users\\profp\\source\\repos\\poker tracker\\poker tracker\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|poker tracker\\poker tracker.vbproj|solutionrelative:poker tracker\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|poker tracker||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|poker tracker\\poker tracker.vbproj|c:\\users\\profp\\source\\repos\\poker tracker\\poker tracker\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|poker tracker\\poker tracker.vbproj|solutionrelative:poker tracker\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|poker tracker\\poker tracker.vbproj|c:\\users\\profp\\source\\repos\\poker tracker\\poker tracker\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|poker tracker\\poker tracker.vbproj|solutionrelative:poker tracker\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|poker tracker\\poker tracker.vbproj|c:\\users\\profp\\source\\repos\\poker tracker\\poker tracker\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|909d16b3-c8e8-43d1-a2b8-26ea0d4b6b57"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "New Game.aspx",
+              "DocumentMoniker": "C:\\Users\\profp\\source\\repos\\poker tracker\\poker tracker\\New Game.aspx",
+              "RelativeDocumentMoniker": "poker tracker\\New Game.aspx",
+              "ToolTip": "C:\\Users\\profp\\source\\repos\\poker tracker\\poker tracker\\New Game.aspx",
+              "RelativeToolTip": "poker tracker\\New Game.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-03T14:16:40.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "poker tracker",
+              "DocumentMoniker": "C:\\Users\\profp\\source\\repos\\poker tracker\\poker tracker\\poker tracker.vbproj",
+              "RelativeDocumentMoniker": "poker tracker\\poker tracker.vbproj",
+              "ToolTip": "C:\\Users\\profp\\source\\repos\\poker tracker\\poker tracker\\poker tracker.vbproj",
+              "RelativeToolTip": "poker tracker\\poker tracker.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-03T14:05:19.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "C:\\Users\\profp\\source\\repos\\poker tracker\\poker tracker\\Contact.aspx",
+              "RelativeDocumentMoniker": "poker tracker\\Contact.aspx",
+              "ToolTip": "C:\\Users\\profp\\source\\repos\\poker tracker\\poker tracker\\Contact.aspx",
+              "RelativeToolTip": "poker tracker\\Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-03T13:51:58.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\profp\\source\\repos\\poker tracker\\poker tracker\\Default.aspx",
+              "RelativeDocumentMoniker": "poker tracker\\Default.aspx",
+              "ToolTip": "C:\\Users\\profp\\source\\repos\\poker tracker\\poker tracker\\Default.aspx",
+              "RelativeToolTip": "poker tracker\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-03T13:33:24.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\profp\\source\\repos\\poker tracker\\poker tracker\\Site.Master",
+              "RelativeDocumentMoniker": "poker tracker\\Site.Master",
+              "ToolTip": "C:\\Users\\profp\\source\\repos\\poker tracker\\poker tracker\\Site.Master",
+              "RelativeToolTip": "poker tracker\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-03T13:30:18.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
